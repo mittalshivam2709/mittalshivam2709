@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivam-mittal-488338227" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="shivam-mittal-488338227" height="30" width="40" /></a>
 <a href="https://instagram.com/_shivam_18___" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="_shivam_18___" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mittalshivam_2709" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="mittalshivam_2709" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mittalshivam_2709" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="mittalshivam_2709" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
