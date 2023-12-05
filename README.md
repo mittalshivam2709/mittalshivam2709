@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivam-mittal-988338227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-mittal-988338227" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-mittal-988338227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-mittal-488338227" height="30" width="40" /></a>
 <a href="https://instagram.com/_shivam_18___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivam_18___" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mittalshivam_2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mittalshivam_2709" height="30" width="40" /></a>
 <a href="https://discord.gg/18_eats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="18_eats" height="30" width="40" /></a>
